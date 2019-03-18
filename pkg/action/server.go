@@ -35,5 +35,6 @@ func Server(cfg *config.Config, logger log.Logger) error {
 
 func handler(cfg *config.Config, logger log.Logger, client *owncloud.Client) *chi.Mux {
 	//
+	// TODO: not yet implemented
 	return nil
 }
